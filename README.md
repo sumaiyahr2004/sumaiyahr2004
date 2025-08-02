@@ -2,7 +2,7 @@
 
 I'm **Sumaiyah**, a rising senior at Columbia University studying **Computer Science** and **Biology**, with a focus on applying computational methods to solve real-world problems in **medicine** and **public health**.
 
-🧪 I’ve worked across academia and industry settings, using data to drive real change:
+🧪 I’ve worked across academia and industry settings, using data to drive impact:
 
 - 🧬 At **Mount Sinai**, I'm developing outbreak-tracking pipelines in **R** to map patient movement and trace bacterial transmission across hospital units.
 - 🤖 At **CUIMC**, I curated supervised training and validation sets for a predictive machine learning model in **Python** to predict protein-peptide interactions — helping accelerate therapeutic discovery.
