@@ -19,7 +19,3 @@ Bioinformatics, neural networks, causal inference, and ML model deployment for r
 
 📫 **Reach me at**: sr3986@columbia.edu  
 😄 **Pronouns**: she/her
-
----
-
-I use GitHub to share research projects that blend medicine with technology. Whether you're working on a paper, a prototype, or an open-source tool, I’m always open to thoughtful collaborations. Let’s connect!
