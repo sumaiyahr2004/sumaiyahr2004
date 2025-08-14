@@ -5,7 +5,7 @@ I'm **Sumaiyah**, a rising senior at Columbia University studying **Computer Sci
 🧪 I’ve worked across academia and industry settings, using data to drive impact:
 
 - 🧬 At **Mount Sinai**, I'm developing outbreak-tracking pipelines in **R** to map patient movement and trace bacterial transmission across hospital units.
-- 🤖 At **CUIMC**, I curated supervised training and validation sets for a predictive machine learning model in **Python** to predict protein-peptide interactions — helping accelerate therapeutic discovery.
+- 🤖 At **CUIMC**, I curated supervised training and validation sets for a predictive machine learning model in **Python** to predict protein-peptide interactions and accelerate therapeutic discovery.
 - 🛠 At **OCME NYC**, I optimized backend systems for lab and forensic databases using **Java**, **C**, and **SQL** to improve data infrastructure for biological and legal workflows.
 
 🔭 **Currently working on**:  
