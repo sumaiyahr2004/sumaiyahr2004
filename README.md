@@ -2,10 +2,11 @@ hi! i'm a computer science + biology student at Columbia University. i'm interes
 
 
 **some of the tools i'm proficient in:**
-- **Languages:** Python, SQL, JavaScript, HTML, CSS
-- **Web Development:** Flask, Bootstrap, Jinja2
-- **Machine Learning & Data:** PyTorch, scikit-learn, pandas, NumPy, matplotlib
-- **Tools & Platforms:** Git · GitHub, Google Colab, Jupyter Notebook
+- **languages:** Python, SQL, JavaScript, HTML, CSS
+- **web development:** Flask, React, Node.js, Bootstrap, Jinja2
+- **databases:** PostgreSQL
+- **machine learning & data:** PyTorch, scikit-learn, pandas, NumPy, matplotlib
+- **tools & platforms:** Git · GitHub, Google Colab, Jupyter Notebook
 
 ** some of the projects showcased on my profile:**
 - `doctor-finder:` a full-stack Flask web app for searching and browsing doctor profiles by specialty, condition, and insurance. Includes search, add, and edit functionality
