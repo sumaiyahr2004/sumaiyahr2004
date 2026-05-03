@@ -1,13 +1,13 @@
-hi! i'm a Computer science + biology student at Columbia University. i'm interested in health tech, machine learning, and computational biology.
+hi! i'm a computer science + biology student at Columbia University. i'm interested in health tech, machine learning, and computational biology.
 
 
-tools i'm proficient in: 
+**some of the tools i'm proficient in:**
 - **Languages:** Python, SQL, JavaScript, HTML, CSS
 - **Web Development:** Flask, Bootstrap, Jinja2
 - **Machine Learning & Data:** PyTorch, scikit-learn, pandas, NumPy, matplotlib
 - **Tools & Platforms:** Git · GitHub, Google Colab, Jupyter Notebook
 
-about some of the projects showcased on my profile: 
+** some of the projects showcased on my profile:**
 - `doctor-finder:` a full-stack Flask web app for searching and browsing doctor profiles by specialty, condition, and insurance. Includes search, add, and edit functionality
 - `ehr-database:` a relational database system for managing electronic health records, including patient data, diagnoses, medications, and clinical visits
 - `disease-encyclopedia:` a searchable Flask web app covering 10 chronic and infectious diseases, with server-side search, detailed condition profiles, and curated video resources
