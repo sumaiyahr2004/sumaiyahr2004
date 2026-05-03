@@ -6,4 +6,10 @@ about some of the projects showcased here:
 - `disease-encyclopedia:` a searchable Flask web app covering 10 chronic and infectious diseases, with server-side search, detailed condition profiles, and curated video resources
 - `cancer-drug-sensitivity-predictor:` machine learning models that predict cancer cell line sensitivity to 266 drugs using gene expression data; feature Ridge, LASSO, logistic regression, and neural networks built from scratch in PyTorch 
 - `ml-classifier-comparison:` benchmarks five scikit-learn classifiers on a chessboard dataset using grid search and 5-fold cross-validation. Includes decision boundary visualizations for each method.
-- `intelligent-agent-2048-puzzle:` an AI agent that plays 2048 using expectiminimax search with alpha-beta pruning and custom heuristics for monotonicity, smoothness, and board state evaluation.
+- `intelligent-agent-2048-puzzle:` an AI agent that plays 2048 using expectiminimax search with alpha-beta pruning and custom heuristics for monotonicity, smoothness, and board state evaluation
+
+tools i'm proficient in: 
+- **Languages:** Python, SQL, JavaScript, HTML, CSS
+- **Web Development:** Flask, Bootstrap, Jinja2
+- **Machine Learning & Data:** PyTorch, scikit-learn, pandas, NumPy, matplotlib
+- **Tools & Platforms:** Git · GitHub, Google Colab, Jupyter Notebook
