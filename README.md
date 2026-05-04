@@ -1,4 +1,4 @@
-Hello! I'm currently a senior at Columbia University studying Computer Science and Biology. I'm interested in opportunities in health tech, machine learning, and computational biology. I have worked on computational projects spanning public health, infectious disease, and epidemiology at the Icahn School of Medicine at Mount Sinai; structural biology, proteomins, and machine learning at the Columbia Irving Medical Center, and forensic informatics at the Office of the Chief Medical Examiner (OCME NYC). 
+Hello! I'm currently a senior at Columbia University studying Computer Science and Biology. I'm interested in opportunities in health tech, machine learning, and computational biology. I have worked on computational projects spanning public health, infectious disease, and epidemiology at the Icahn School of Medicine at Mount Sinai; structural biology, proteomics, and machine learning at the Columbia Irving Medical Center, and forensic informatics at the Office of the Chief Medical Examiner (OCME NYC). 
 
 **Some of the tools I'm proficient in:**
 - **Languages:** Python, SQL, JavaScript, HTML, CSS
