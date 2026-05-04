@@ -5,7 +5,7 @@ Hello! I'm currently a senior at Columbia University studying Computer Science a
 - **Web development:** Flask, React, Node.js, Bootstrap, Jinja2
 - **Databases:** PostgreSQL
 - **Machine Learning & Data:** PyTorch, scikit-learn, pandas, NumPy, matplotlib
-- **Tools & Platforms:** Git · GitHub, Google Colab, Jupyter Notebook
+- **Tools & Platforms:** Git, GitHub, Google Colab, Jupyter Notebook
 
 **Some of the projects showcased on my profile:**
 - **`doctor-finder:`** a full-stack Flask web app for searching and browsing doctor profiles by specialty, condition, and insurance. Includes search, add, and edit functionality
